@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_test_store
+['remote "dvc_test_store"']
+    url = s3://dvctestxabhay

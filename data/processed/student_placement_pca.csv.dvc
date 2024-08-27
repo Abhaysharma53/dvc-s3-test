@@ -1,0 +1,5 @@
+outs:
+- md5: 223b37c7df0a752a2388d10c2facba69
+  size: 12620
+  hash: md5
+  path: student_placement_pca.csv
